@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dyl2e/USU/CS 2410/GoGoGym/app/src/main/res/layout/activity_main.xml" value="0.35311143270622286" />
+        <entry key="..\:/Users/dyl2e/USU/CS 2410/GoGoGym/app/src/main/res/layout/calender_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/dyl2e/USU/CS 2410/GoGoGym/app/src/main/res/layout/create_history_item.xml" value="0.264" />
+        <entry key="..\:/Users/dyl2e/USU/CS 2410/GoGoGym/app/src/main/res/layout/create_workout_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/dyl2e/USU/CS 2410/GoGoGym/app/src/main/res/layout/default_workout_fragment.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/dyl2e/USU/CS 2410/GoGoGym/app/src/main/res/layout/history_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/dyl2e/USU/CS 2410/GoGoGym/app/src/main/res/layout/history_item_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/dyl2e/USU/CS 2410/GoGoGym/app/src/main/res/layout/home_fragment.xml" value="0.2" />
+        <entry key="..\:/Users/dyl2e/USU/CS 2410/GoGoGym/app/src/main/res/layout/tester.xml" value="0.264" />
+        <entry key="..\:/Users/dyl2e/USU/CS 2410/GoGoGym/app/src/main/res/layout/workout_item_fragment.xml" value="0.4" />
+        <entry key="..\:/Users/dyl2e/USU/CS 2410/GoGoGym/app/src/main/res/layout/workout_list_item_fragment.xml" value="0.42964352720450283" />
+        <entry key="..\:/Users/dyl2e/USU/CS 2410/GoGoGym/app/src/main/res/layout/workout_template_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dyl2e/USU/CS 2410/GoGoGym/app/src/main/res/menu/activity_main_drawer.xml" value="0.2" />
+        <entry key="..\:/Users/dyl2e/USU/CS 2410/GoGoGym/app/src/main/res/menu/main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/dyl2e/USU/CS 2410/GoGoGym/app/src/main/res/mipmap-anydpi-v26/gym_Icon_launcher.xml" value="0.2703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

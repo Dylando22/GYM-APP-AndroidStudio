@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/menu_home" android:title="Home" android:icon="@drawable/ic_baseline_home_24" android:checked="true"/>
+        <item android:id="@+id/menu_calender" android:title="Calender" android:icon="@drawable/ic_baseline_calendar_month_24"/>
+        <item android:id="@+id/menu_default" android:title="GoGo Workouts" android:icon="@drawable/ic_baseline_directions_run_24"/>
+        <item android:id="@+id/menu_create" android:title="My Workouts" android:icon="@drawable/ic_baseline_add_circle_24"/>
+        <item android:id="@+id/menu_history" android:title="My Workout History" android:icon="@drawable/ic_baseline_history_24"/>
+
+
+    </group>
+</menu>
